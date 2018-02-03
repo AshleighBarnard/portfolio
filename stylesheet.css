@@ -9,7 +9,6 @@ body {
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	line-height: 30px;
 	text-align: left;
-	/* Set width to 1200 instead of 960 for better layout (in my humble opinion). */
 	width: 1200px;
 }
 
@@ -80,7 +79,7 @@ a:hover {
 	border-right: none;
 }
 
-/* Rotates social icon in contacts on hover. */
+/* Rotates icon in contacts on hover for a cool move. */
 .icon:hover {
 	transform: rotate(-10deg);
 	-ms-transform: rotate(-10deg);
@@ -106,7 +105,7 @@ textarea {
     border-width: thin;
 }
 
-/* Need to use a pseudoclass to control placeholder. */
+/* Using a pseudoclass to control placeholder */
 input,
 textarea,
 input::-webkit-input-placeholder {
@@ -136,7 +135,7 @@ footer {
 	clear: both;
 	overflow: auto;
 	margin: 0 auto;
-	background-image: url("../images/background.png");
+	background-image: url("assets/images/spiration-light.png");
 	height: 600px;
 	width: 100%;
 	border-bottom: 5px solid #4aaaa5;
