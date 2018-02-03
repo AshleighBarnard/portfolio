@@ -67,9 +67,9 @@ a {
 	text-decoration: none;
 }
 
-/* Nav links turn teal on hover. */
+/* Nav links turn light blue on hover. */
 a:hover {
-  color: #4aaaa5;
+  color: #53d2cb;
 }
 
 .icon {
@@ -148,7 +148,7 @@ footer {
 	margin: 20px;
 }
 
-/* Rotates project in portfolio on hover. */
+/* Rotates the project on hover*/
 .box:hover {
 	transform: rotate(-10deg);
 	-ms-transform: rotate(-10deg);
@@ -186,9 +186,9 @@ footer {
 	top: -8px;
 }
 
-/* Button turns dark on hover. */
+/* Button turns navy blue on hover. */
 .button:hover {
-	background-color: #374865;
+	background-color: #0f264f;
 }
 
 #social-links {
@@ -235,14 +235,3 @@ footer {
 	height: 500px;
 }
 © 2018 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-API
-Training
-Shop
-Blog
-About
